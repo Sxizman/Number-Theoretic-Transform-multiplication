@@ -1,0 +1,15 @@
+D:\programming\c#\NTT Multiplication\bin\Release\net6.0\NTT Multiplication.exe
+D:\programming\c#\NTT Multiplication\bin\Release\net6.0\NTT Multiplication.deps.json
+D:\programming\c#\NTT Multiplication\bin\Release\net6.0\NTT Multiplication.runtimeconfig.json
+D:\programming\c#\NTT Multiplication\bin\Release\net6.0\NTT Multiplication.dll
+D:\programming\c#\NTT Multiplication\bin\Release\net6.0\NTT Multiplication.pdb
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.csproj.AssemblyReference.cache
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.AssemblyInfoInputs.cache
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.AssemblyInfo.cs
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.csproj.CoreCompileInputs.cache
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.dll
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\refint\NTT Multiplication.dll
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.pdb
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\NTT Multiplication.genruntimeconfig.cache
+D:\programming\c#\NTT Multiplication\obj\Release\net6.0\ref\NTT Multiplication.dll
